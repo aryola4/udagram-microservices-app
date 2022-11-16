@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: zalck/udagram-frontend:v2
+        image: aryola4/udagram-frontend
         ports:
           - containerPort: 80

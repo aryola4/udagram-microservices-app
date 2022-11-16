@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: reverseproxy
-        image: zalck/reverseproxy:v1
+        image: aryola4/reverseproxy
         ports:
           - containerPort: 8080
