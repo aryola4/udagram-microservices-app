@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backend-user
-        image: zalck/udagram-api-user:v1
+        image: aryola4/udagram-api-user
         ports:
           - containerPort: 8080
         resources:
